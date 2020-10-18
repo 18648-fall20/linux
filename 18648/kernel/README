@@ -1,0 +1,5 @@
+18-648 Kernel
+============
+
+Any new kernel source files go here!
+Note that you may still need to make other modifications to the existing kernel files. But to make grading easier, please try to keep the majority of your work in this directory. 
